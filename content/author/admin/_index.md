@@ -13,7 +13,7 @@ role = "Senior Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Department of Medicinal Chemistry", url = "" }, {name="University of Washington", url="" ]
+organizations = [ { name = "Department of Medicinal Chemistry", url = "" }, {name="University of Washington", url=""} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Dr. Kelly M. Hines is a senior fellow in the Department of Medicinal Chemistry at the University of Washington. Her research in the lab of Professor Libin Xu includes the development of high-throughput ion mobility-mass spectrometry measurements, methods to enhance IM-MS-based lipidomics studies, and the application of these methods to concerns of human health such as antibiotic resistance and environmental toxicology."
