@@ -72,13 +72,11 @@ user_groups = []
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[social]]
-   icon = "cv"
-   icon_pack = "ai"
-   link = "files/cv.pdf"
+#[[social]]
+#   icon = "cv"
+#   icon_pack = "ai"
+#   link = "files/cv.pdf"
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Dr. Kelly M. Hines is a senior fellow in the Department of Medicinal Chemistry at the University of Washington. Her research in the lab of Professor Libin Xu includes the development of high-throughput ion mobility-mass spectrometry measurements, methods to enhance IM-MS-based lipidomics studies, and the application of these methods to concerns of human health such as antibiotic resistance and environmental toxicology.
