@@ -27,7 +27,7 @@ abstract = "Our understanding of phospholipid biosynthesis in Gram-positive and 
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1016/j.chemphyslip.2019.01.007"
+#doi = "10.1016/j.chemphyslip.2019.01.007"
 
 # Is this a featured publication? (true/false)
 featured = true
