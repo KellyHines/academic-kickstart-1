@@ -49,8 +49,9 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Graduate Student, McLean Lab"
-  company = "Department of Chemistry <br/>
-  Vanderbilt University"
+  company = """
+  Department of Chemistry<br/> 
+  Vanderbilt University"""
   company_url = "https://www.vanderbilt.edu/AnS/Chemistry/groups/mcleanlab"
   location = "Nashville, TN"
   date_start = "2009-08-01"
