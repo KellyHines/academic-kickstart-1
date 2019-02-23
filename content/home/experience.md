@@ -37,7 +37,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Postdoctoral Fellow"
   company = "Mayo Clinic Metabolomics Resource Core"
-  company_url = ""
+  company_url = "https://www.mayo.edu/research/centers-programs/metabolomics-resource-core/overview"
   location = "Rochester, MN"
   date_start = "2014-06-01"
   date_end = "2015-07-01"
@@ -47,4 +47,17 @@ date_format = "January 2006"
   * Targeted Metabolomics
   * Stable Isotope Labeling"""
 
+[[experience]]
+  title = "Graduate Student, McLean Lab"
+  company = "Department of Chemistry <br/>
+  Vanderbilt University"
+  company_url = "https://www.vanderbilt.edu/AnS/Chemistry/groups/mcleanlab"
+  location = "Nashville, TN"
+  date_start = "2009-08-01"
+  date_end = "2014-06-01"
+  description = """
+  
+  * Ion Mobility
+  * Metabolomics
+  * Proteomics"""
 +++
