@@ -22,13 +22,16 @@ date_format = "January 2006"
   title = "Senior Fellow"
   company = """
   Xu Lab
+  
   Department of Medicinal Chemistry
+  
   University of Washington"""
   company_url = "http://faculty.washington.edu/libinxu/"
   location = "Seattle, WA"
   date_start = "2015-07-01"
   date_end = ""
   description = """
+  
   * Lipidomics
   * Ion Mobility
   * Antibiotic Resistance
@@ -40,8 +43,9 @@ date_format = "January 2006"
   company_url = ""
   location = "Rochester, MN"
   date_start = "2014-06-01"
-  date_end = "2016-07-01"
+  date_end = "2015-07-01"
   description = """
+  
   * Mass Spectrometry
   * Targeted Metabolomics
   * Stable Isotope Labeling"""
