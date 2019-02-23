@@ -40,7 +40,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Rochester, MN"
   date_start = "2014-06-01"
-  date_end = "2016-06-31"
+  date_end = "2016-07-01"
   description = """
   * Mass Spectrometry
   * Targeted Metabolomics
