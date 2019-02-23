@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Chemistry and Physics of Lipids*"
-publication_short = "*Chem. Phys. Lipids*"
+publication_short = "In *Chem. Phys. Lipids*"
 
 # Abstract.
 abstract = "Our understanding of phospholipid biosynthesis in Gram-positive and Gram-negative bacteria is derived from the prototypical Gram-negative organism *Escherichia coli*. The inner and outer membranes of *E. coli* are largely composed of phosphatidylethanolamine (PE), minor amounts of phosphatidylglycerol (PG) and cardiolipin (CL). We report here the utility of hydrophilic interaction liquid chromatography (HILIC) paired with ion mobility-mass spectrometry (IM-MS) for the comprehensive analysis of the *E. coli* lipidome. Using strains with chromosomal deletions in the PG and CL synthesis genes *pgsA* and *clsABC*, respectively, we show that defective phospholipid biosynthesis in *E. coli* results in fatty-acid specific changes in select lipid classes and the presence of the minor triacylated phospholipids, acylphosphatidyl glycerol (acylPG) and N-acylphosphatidylethanolamine (N-acylPE). Notably, acylPGs were accumulated in the *clsABC*-KO strain, but were absent in other mutant strains. The separation of 1-lyso and 2-lyso-phosphatidylethanolamines (lysoPEs) is demonstrated in both the HILIC and IM dimensions. Using our previously validated calibration method, collision cross section values of nearly 200 phospholipids found in *E. coli* were determined on a traveling wave IM-MS platform, including newly reported values for cardiolipins, positional isomers of lysoPEs, acylPGs and N-acylPEs."
@@ -70,6 +70,6 @@ math = false
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Center"
 +++
 
