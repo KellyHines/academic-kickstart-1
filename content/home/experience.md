@@ -21,7 +21,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Senior Fellow, Xu Lab"
   company = """
-  Department of Medicinal Chemistry
+  Department of Medicinal Chemistry<br/>
   University of Washington"""
   company_url = "http://faculty.washington.edu/libinxu/"
   location = "Seattle, WA"
