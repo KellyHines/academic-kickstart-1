@@ -55,7 +55,7 @@ preserveTaxonomyNames = true
   extensions = ["backslashLineBreak"]
 
 [imaging]
-  resampleFilter = "box"
+  resampleFilter = "lanczos"
   quality = 100
   anchor = "Smart"  # Anchor for cropping. Options include Smart and Center.
 
