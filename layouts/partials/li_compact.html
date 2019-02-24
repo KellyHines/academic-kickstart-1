@@ -55,7 +55,10 @@
         {{ end }}
       </div>
       {{ end }}
+    </div>   
 
+
+    <div class="stream-meta article-metadata">  
       {{ if and $show_authors_only $item.Params.authors }}
       <div itemprop="author" style="text-align: justify">
         {{ partial "page_metadata_authors" $item }}
@@ -64,7 +67,6 @@
         {{ partial "page_metadata" (dict "content" $item "is_list" 1) }}
       {{ end }}
 
-      
       {{ with $item.Params.publication | markdownify }}
       <span itemprop="publication">{{ . }}</span>
       &nbsp;on&nbsp; 
