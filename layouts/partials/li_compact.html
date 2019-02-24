@@ -63,6 +63,22 @@
       {{ else if not $show_authors_only }}
         {{ partial "page_metadata" (dict "content" $item "is_list" 1) }}
       {{ end }}
+
+      {{ with $item.Params.publication_short }}
+      <span itemprop="publication_short">{{ . }}</span>
+      {{ end }}
+
+      <span itemprop="date">
+        {{ $date := $item.Params.date | default $item.Date }}
+        {{ (time $date).Format $.Site.Params.date_format }}
+        {{ if not $item.Params.all_day }}
+          {{ (time $date).Format ($.Site.Params.time_format | default "3:04 PM") }}
+          {{ with .Params.time_end }}
+          &mdash; {{ (time .).Format ($.Site.Params.time_format | default "3:04 PM") }}
+          {{ end }}
+        {{ end }}
+      </span>
+
     </div>
 
     {{ if $show_buttons }}
