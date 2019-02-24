@@ -39,6 +39,4 @@ exclude_featured = false
 share = false
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+
