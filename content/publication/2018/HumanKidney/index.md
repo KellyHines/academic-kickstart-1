@@ -1,6 +1,6 @@
 +++
 title = "Human kidney on a chip assessment of polymyxin antibiotic nephrotoxicity"
-date = 2018-12-01T00:00:00
+date = 2018-12-20T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Elijah J. Weber", "Kevin A. Lidberg", "Lu Wang", "Theo K. Bammler", "James W. MacDonald", "Mavis J. Li", "Michelle Redhair", "William M. Atkins", "Cecilia Tran", "***Kelly M. Hines***", "Josi Herron", "Libin Xu", "Maria Beatriz Monteiro", "Susanne Ramm", "Vishal Vaidya", "Martti Vaara", "Timo Vaara", "Jonathan Himmelfarb", "Edward J. Kelly"]
