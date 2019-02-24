@@ -30,15 +30,10 @@
 <div class="media stream-item" itemscope itemtype="http://schema.org/{{$microdata_type}}">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
+    <h3 class="article-title mb-0 mt-0" itemprop="name" style="text-align: justify">
       <a href="{{ $item.RelPermalink }}" itemprop="url">{{ $item.Title }}</a>
     </h3>
 
-    {{ with $summary }}
-    <div class="article-style" itemprop="articleBody">
-      {{ . | truncate 135 }}
-    </div>
-    {{ end }}
 
     <div class="stream-meta article-metadata">
 
@@ -62,7 +57,7 @@
       {{ end }}
 
       {{ if and $show_authors_only $item.Params.authors }}
-      <div itemprop="author">
+      <div itemprop="author" style="text-align: justify">
         {{ partial "page_metadata_authors" $item }}
       </div>
       {{ else if not $show_authors_only }}
