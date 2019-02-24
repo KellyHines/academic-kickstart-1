@@ -71,7 +71,10 @@
       <span itemprop="publication">{{ . }}</span>
       &nbsp;on&nbsp; 
       {{ end }}
-      
+    </div>
+    
+    
+    <div class="stream-meta article-metadata"></div>
       <span itemprop="date">
         {{ $date := $item.Params.date | default $item.Date }}
         {{ (time $date).Format $.Site.Params.date_format }}
