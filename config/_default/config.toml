@@ -16,7 +16,7 @@ baseurl = "http://wwww.kellymhines.com/"
 copyright = "&copy; Kelly Hines, 2019"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-135080705-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
