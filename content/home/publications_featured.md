@@ -28,5 +28,9 @@ view = 3
 #  5: Book
 #  6: Book chapter
 publication_type = "-1"
+
+
+#Social sharing links?
+share = false
 +++
 
