@@ -139,10 +139,9 @@
   {{ end }}
 
   <link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
-  <link rel="icon" type="image/png" href="{{ "" | relURL }}">
-  <link rel="apple-touch-icon" type="image/png" href="{{ "" | relURL }}">
+ 
 
-  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="canonical" href="{{ .Permalink }}"> 
 
   {{ $featured_image := (.Resources.ByType "image").GetMatch "*featured*" }}
   {{ $og_image := "" }}
