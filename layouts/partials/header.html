@@ -168,7 +168,7 @@
   <meta property="og:site_name" content="{{ .Site.Title }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
-  <meta property="og:description" content="{{ $desc }}">
+  <meta property="og:description" content="{{ $desc }}" style="text-align:justify">
   {{- with $og_image }}<meta property="og:image" content="{{ . }}">{{end}}
   <meta property="og:locale" content="{{ .Site.LanguageCode | default "en-us" }}">
   {{ if .IsPage }}
