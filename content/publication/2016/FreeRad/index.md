@@ -3,7 +3,7 @@ title = "Transcriptome profiling of equine vitamin E deficient neuroaxonal dystr
 date = 2016-12-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Carrie J. Finno", "Matthew H. Bordbari", "Stephanie J. Valberg", "David Lee", "Josi Herron", "***Kelly M. Hines***, "Tamer Monsour", "Erica Scott", "Danika L. Bannasch", "James Mickelson", "Libin Xu"]
+authors = ["Carrie J. Finno", "Matthew H. Bordbari", "Stephanie J. Valberg", "David Lee", "Josi Herron", "***Kelly M. Hines***", "Tamer Monsour", "Erica Scott", "Danika L. Bannasch", "James Mickelson", "Libin Xu"]
 
 # Publication type.
 # Legend:
