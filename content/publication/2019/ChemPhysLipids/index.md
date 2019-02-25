@@ -1,5 +1,5 @@
 +++
-title = "Lipidomics consequences of phospholipid synthesis defects in Escherichia coli by HILIC-ion mobility-mass spectrometry"
+title = "Lipidomic consequences of phospholipid synthesis defects in Escherichia coli by HILIC-ion mobility-mass spectrometry"
 date = 2019-01-17T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

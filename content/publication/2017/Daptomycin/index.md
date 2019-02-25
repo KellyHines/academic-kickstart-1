@@ -1,6 +1,6 @@
 +++
 title = "Characterization of the mechanisms of daptomycin resistance among Gram-positive bacterial pathogens by multidimensional lipidomics"
-date = 2017-12-7T00:00:00
+date = 2017-12-07T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["***Kelly M. Hines***", "Adam Waalkes", "Kelsi Penewit", "Elizabeth A Holmes", "Stephen J Salipante", "Brian J Werth", "Libin Xu"]
