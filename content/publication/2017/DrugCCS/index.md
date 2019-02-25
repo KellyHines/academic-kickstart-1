@@ -3,7 +3,7 @@ title = "Large-scale structural characterization of drug and drug-like compounds
 date = 2017-08-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["***Kelly M. Hines***", "Dylan H. Ross", "Kimberly L. Davidson", "Matthew F Bush", "Libin Xu"]
+authors = ["***Kelly M. Hines***", "Dylan H. Ross", "Kimberly L. Davidson", "Matthew F. Bush", "Libin Xu"]
 
 # Publication type.
 # Legend:
