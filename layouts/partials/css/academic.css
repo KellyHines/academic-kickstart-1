@@ -107,6 +107,12 @@ h4, h5, h6 {
   font-size: 1rem;
 }
 
+h7 {
+  font-weight: 700;
+  margin-top: 1rem;
+  font-size: 0.5rem;
+}
+
 a,
 h3.article-title a:hover {
   color: {{ .Get "link" }};
