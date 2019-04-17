@@ -16,7 +16,7 @@ role = "Senior Fellow"
 organizations = [ { name = "Department of Medicinal Chemistry", url = "" }, {name="University of Washington", url=""} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Dr. Kelly Hines will be joining the Department of Chemistry at University of Georgia in Fall 2019. The Hines Lab will develop novel bioanalytical ion mobility and mass spectrometry approaches to further our understanding of the aberrant biochemical processes that contribute to human disease and illness, including the emergence of antibiotic resistance in pathogens of high-concern."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -79,4 +79,6 @@ user_groups = []
 
 +++
 
-Dr. Kelly M. Hines is a senior fellow in the Department of Medicinal Chemistry at the University of Washington. Her research in the lab of Professor Libin Xu includes the development of high-throughput ion mobility-mass spectrometry measurements, methods to enhance IM-MS-based lipidomics studies, and the application of these methods to concerns of human health such as antibiotic resistance and environmental toxicology.
+Dr. Kelly Hines will be joining the <a href="https://www.chem.uga.edu/" target="_blank">Chemistry Department at University of Georgia</a> in Fall 2019. The Hines Lab will develop novel bioanalytical ion mobility and mass spectrometry approaches to further our understanding of the aberrant biochemical processes that contribute to human disease and illness, including the emergence of antibiotic resistance in pathogens of high-concern.
+
+Currently, Dr. Hines is a senior fellow in the Department of Medicinal Chemistry at the University of Washington. Her research in the lab of Professor Libin Xu includes the development of high-throughput ion mobility-mass spectrometry measurements, methods to enhance IM-MS-based lipidomics studies, and the application of these methods to studies of antibiotic resistance and environmental toxicology.
