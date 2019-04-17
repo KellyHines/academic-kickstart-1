@@ -1,7 +1,7 @@
 +++ 
 title = "The Hines Lab @ UGA Chemistry"
 
-date = 2019-04-17T00:00:00 draft = false
+date = 2019-04-17T00:00:00
 
 Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
 authors = ["admin"]
