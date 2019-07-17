@@ -1,5 +1,5 @@
 +++ 
-title = "2019 UW Postdoc Mentoring Award"
+title = "2019 UW Postdoc Mentoring Award Finalist"
 date = 2019-06-02T00:00:00
 authors = ["admin"]
 summary = "Kelly Hines named a finalist" 
