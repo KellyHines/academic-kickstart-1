@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Senior Fellow"
+role = "Assistant Professor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Department of Medicinal Chemistry", url = "" }, {name="University of Washington", url=""} ]
+organizations = [ { name = "Department of Chemistry", url = "" }, {name="University of Georgia", url=""} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
